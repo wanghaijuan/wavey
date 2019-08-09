@@ -53,5 +53,7 @@ $("#wave-one").wavify({
 
 ## Other
 Wavify：（https://github.com/peacepostman/wavify）
+
 TweenMax：（https://greensock.com/tweenmax） | （https://www.tweenmax.com.cn)
+
 jQuery：（https://jquery.com）
